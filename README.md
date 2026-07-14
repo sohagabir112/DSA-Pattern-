@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohagabir112/Problem-Solving/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/sohagabir112/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sohagabir112/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0088-merge-sorted-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/sohagabir112/Problem-Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sohagabir112/Problem-Solving/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/sohagabir112/Problem-Solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/sohagabir112/Problem-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
