@@ -13,7 +13,7 @@ public:
             int v4 = nopower;
 
             res = max(res,max(max(v1,v2), max(v3,v4)));
-            //res = max(max(v1,v2), max(v3,v4));
+            
             nopower = max(v1,v2);
             power = max(v3,v4);
         }
