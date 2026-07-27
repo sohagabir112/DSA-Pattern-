@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sohagabir112/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sohagabir112/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sohagabir112/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sohagabir112/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohagabir112/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/sohagabir112/Problem-Solving/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/sohagabir112/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
