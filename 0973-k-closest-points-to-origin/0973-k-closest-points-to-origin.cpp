@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        int n = points.size();
         priority_queue<pair<int,vector<int>>>pq;
         for(auto &p : points){
             int dist = p[0]*p[0] + p[1]*p[1];
