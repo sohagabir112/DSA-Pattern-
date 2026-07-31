@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohagabir112/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/sohagabir112/Problem-Solving/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sohagabir112/Problem-Solving/tree/master/0724-find-pivot-index) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohagabir112/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/sohagabir112/Problem-Solving/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/sohagabir112/Problem-Solving/tree/master/0986-interval-list-intersections) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/sohagabir112/Problem-Solving/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/sohagabir112/Problem-Solving/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sohagabir112/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sohagabir112/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sohagabir112/Problem-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sohagabir112/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/sohagabir112/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -243,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/sohagabir112/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
