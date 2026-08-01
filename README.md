@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohagabir112/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sohagabir112/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/sohagabir112/Problem-Solving/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/sohagabir112/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sohagabir112/Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sohagabir112/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/sohagabir112/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/sohagabir112/Problem-Solving/tree/master/0904-fruit-into-baskets) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sohagabir112/Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/sohagabir112/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/sohagabir112/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/sohagabir112/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/sohagabir112/Problem-Solving/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/sohagabir112/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0767-reorganize-string) |
 ## Recursion
@@ -264,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/sohagabir112/Problem-Solving/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/sohagabir112/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/sohagabir112/Problem-Solving/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
