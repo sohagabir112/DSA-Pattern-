@@ -32,7 +32,7 @@ public:
                 TreeNode* t = q.front();
                 q.pop();
 
-                if(leftToright == 1){
+                if(leftToright){
                     tmp[first] = t->val;
                     first++;
                 }
