@@ -11,63 +11,111 @@
  */
 class Solution {
 public:
-    void fun(TreeNode* root, vector<int> &arr){
+    // void fun(TreeNode* root, vector<int> &arr){
+    //     if(root == NULL){
+    //         return;
+    //     }
+
+    //     fun(root->left, arr);
+    //     arr.push_back(root->val);
+    //     fun(root->right, arr);
+
+    //     return;
+    // }
+
+    // void change(TreeNode* root, int a, int b){
+    //     if(root == NULL){
+    //         return;
+    //     }
+
+    //     if(root->val == a){
+    //         root->val = b;
+    //     }
+    //     else if(root->val == b){
+    //         root->val = a;
+    //     }
+
+    //     change(root->left, a, b);
+    //     change(root->right, a, b);
+
+    //     return;
+    // }
+
+    TreeNode* prev = NULL;
+    TreeNode* w1first = NULL;
+    TreeNode* w1second = NULL;
+    TreeNode* w2first = NULL;
+    TreeNode* w2second = NULL;
+    int wrong = 0;
+
+    void fun(TreeNode* root){
         if(root == NULL){
             return;
         }
+        fun(root->left);
 
-        fun(root->left, arr);
-        arr.push_back(root->val);
-        fun(root->right, arr);
-
-        return;
-    }
-
-    void change(TreeNode* root, int a, int b){
-        if(root == NULL){
-            return;
+        if(prev == NULL){
+            prev = root;
         }
-
-        if(root->val == a){
-            root->val = b;
-        }
-        else if(root->val == b){
-            root->val = a;
-        }
-
-        change(root->left, a, b);
-        change(root->right, a, b);
-
-        return;
-    }
-
-    void recoverTree(TreeNode* root) {
-        vector<int>arr;
-        fun(root, arr);
-
-        int wrong = 0;
-        int w1first, w1second, w2first, w2second;
-        int n = arr.size();
-
-        for(int i=0;i<n-1;i++){
-            if(arr[i] > arr[i+1]){
+        else{
+            if(root->val < prev->val){
                 if(wrong == 0){
-                    w1first = arr[i];
-                    w1second = arr[i+1];
+                    w1first = prev;
+                    w1second = root;
                     wrong++;
                 }
                 else{
-                    w2first = arr[i];
-                    w2second = arr[i+1];
+                    w2first = prev;
+                    w2second = root;
                     wrong++;
                 }
             }
+            prev = root;
         }
+        
+        fun(root->right);
+
+        return; 
+    }
+
+    void recoverTree(TreeNode* root) {
+        // vector<int>arr;
+        // fun(root, arr);
+
+        // int wrong = 0;
+        // int w1first, w1second, w2first, w2second;
+        // int n = arr.size();
+
+        // for(int i=0;i<n-1;i++){
+        //     if(arr[i] > arr[i+1]){
+        //         if(wrong == 0){
+        //             w1first = arr[i];
+        //             w1second = arr[i+1];
+        //             wrong++;
+        //         }
+        //         else{
+        //             w2first = arr[i];
+        //             w2second = arr[i+1];
+        //             wrong++;
+        //         }
+        //     }
+        // }
+        // if(wrong == 1){
+        //     change(root, w1first, w1second);
+        // }
+        // else{
+        //     change(root, w1first, w2second);
+        // }
+
+        // return;
+
+        fun(root);
+
         if(wrong == 1){
-            change(root, w1first, w1second);
+            swap(w1first->val, w1second->val);
         }
         else{
-            change(root, w1first, w2second);
+            swap(w1first->val, w2second->val);
         }
 
         return;
