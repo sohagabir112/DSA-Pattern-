@@ -11,26 +11,52 @@
  */
 class Solution {
 public:
-    void fun(TreeNode* root, vector<int> &res){
+    // void fun(TreeNode* root, vector<int> &res){
+    //     if(root == NULL){
+    //         return;
+    //     }
+    //     fun(root->left,res);
+    //     res.push_back(root->val);
+    //     fun(root->right,res);
+
+    //     return;
+    // }
+
+    TreeNode* prev = NULL;
+    bool res = true;
+
+    void fun(TreeNode* root){
         if(root == NULL){
             return;
         }
-        fun(root->left,res);
-        res.push_back(root->val);
-        fun(root->right,res);
 
+        fun(root->left);
+        if(prev == NULL){
+            prev = root;
+        }
+        else{
+            if(root->val <= prev->val){
+                res = false;
+            }
+            prev = root;
+        }
+        fun(root->right);
+        
         return;
     }
     bool isValidBST(TreeNode* root) {
-        vector<int>res;
-        fun(root,res);
-        int n = res.size();
+        // vector<int>res;
+        // fun(root,res);
+        // int n = res.size();
 
-        for(int i=0;i<n-1;i++){
-            if(res[i] >= res[i+1]){
-                return false;
-            }
-        }
-        return true;
+        // for(int i=0;i<n-1;i++){
+        //     if(res[i] >= res[i+1]){
+        //         return false;
+        //     }
+        // }
+        // return true;
+
+        fun(root);
+        return res;
     }
 };
