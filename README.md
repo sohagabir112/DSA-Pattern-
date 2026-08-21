@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sohagabir112/Problem-Solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sohagabir112/Problem-Solving/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/sohagabir112/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sohagabir112/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/sohagabir112/Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
