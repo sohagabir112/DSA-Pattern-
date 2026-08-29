@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sohagabir112/Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sohagabir112/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/sohagabir112/Problem-Solving/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/sohagabir112/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/sohagabir112/Problem-Solving/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/sohagabir112/Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/sohagabir112/Problem-Solving/tree/master/0951-flip-equivalent-binary-trees) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -436,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sohagabir112/Problem-Solving/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sohagabir112/Problem-Solving/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sohagabir112/Problem-Solving/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -469,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sohagabir112/Problem-Solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sohagabir112/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/sohagabir112/Problem-Solving/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -490,4 +497,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/sohagabir112/Problem-Solving/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
