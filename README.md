@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/sohagabir112/Problem-Solving/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sohagabir112/Problem-Solving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/sohagabir112/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sohagabir112/Problem-Solving/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Linked List
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sohagabir112/Problem-Solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
+| [1143-longest-common-subsequence](https://github.com/sohagabir112/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sohagabir112/Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
@@ -535,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sohagabir112/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sohagabir112/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
