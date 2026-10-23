@@ -8,7 +8,7 @@ public:
             return 0;
         }
         if(dp[i][k] != -1){
-            return dp[i][k] ;
+            return dp[i][k];
         }
         if(k == 2){
             int c1 = fun(a, n, i+1, k-1, dp) - a[i];
