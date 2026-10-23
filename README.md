@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sohagabir112/Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sohagabir112/Problem-Solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/sohagabir112/Problem-Solving/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sohagabir112/Problem-Solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Sliding Window
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/sohagabir112/Problem-Solving/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sohagabir112/Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/sohagabir112/Problem-Solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
