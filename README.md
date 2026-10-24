@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/sohagabir112/Problem-Solving/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohagabir112/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sohagabir112/Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sohagabir112/Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sohagabir112/Problem-Solving/tree/master/0287-find-the-duplicate-number) |
