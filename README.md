@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sohagabir112/Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/sohagabir112/Problem-Solving/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/sohagabir112/Problem-Solving/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sohagabir112/Problem-Solving/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sohagabir112/Problem-Solving/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sohagabir112/Problem-Solving/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/sohagabir112/Problem-Solving/tree/master/0860-lemonade-change) |
 ## Recursion
 |  |
 | ------- |
