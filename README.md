@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/sohagabir112/Problem-Solving/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/sohagabir112/Problem-Solving/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1480-running-sum-of-1d-array](https://github.com/sohagabir112/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sohagabir112/Problem-Solving/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sohagabir112/Problem-Solving/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sohagabir112/Problem-Solving/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sohagabir112/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sohagabir112/Problem-Solving/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sohagabir112/Problem-Solving/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/sohagabir112/Problem-Solving/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
