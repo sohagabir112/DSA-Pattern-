@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sohagabir112/Problem-Solving/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sohagabir112/Problem-Solving/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sohagabir112/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sohagabir112/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sohagabir112/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sohagabir112/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sohagabir112/Problem-Solving/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sohagabir112/Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sohagabir112/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/sohagabir112/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/sohagabir112/Problem-Solving/tree/master/0127-word-ladder) |
 | [0383-ransom-note](https://github.com/sohagabir112/Problem-Solving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sohagabir112/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
